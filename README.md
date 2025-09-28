@@ -3,9 +3,8 @@
 Simulasi plugin WordPress untuk sistem reservasi layanan pariTourism berbasis **Ethereum Smart Contract (Testnet only)**.  
 Plugin ini dirancang sebagai bagian dari inisiatif digitalisasi pariTourism lokal menggunakan pendekatan desentralisasi.
 
-[Plugin SmartTourismChain (Status: In Review)](https://wordpress.org/plugins/smarttourismchain/)
-
-[![Plugin on WordPress.org](https://img.shields.io/badge/Plugin%20Directory-SmartTourismChain-blue)](https://wordpress.org/plugins/smarttourismchain/)
+[![Plugin on live website](https://img.shields.io/badge/Plugin%20Website-SmartTourismChain-blue)](https://smartourism.elpeef.com/)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16763407.svg)](https://doi.org/10.5281/zenodo.16763407)
 
 ---
 
